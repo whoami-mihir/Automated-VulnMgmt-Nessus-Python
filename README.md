@@ -12,4 +12,3 @@ Automate the workflow of running a Nessus scan, parsing the JSON report for crit
 - `docs/` — Documentation and workflow guide
 - `scripts/` — Python automation script
 - `samples/` — Example console outputs
-- `reports/` — Nessus JSON reports
